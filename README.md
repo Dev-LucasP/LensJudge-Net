@@ -12,13 +12,13 @@ Notre système repose sur une architecture distribuée comprenant plusieurs comp
 - Assigne les tâches aux **runners** disponibles 🤖
 - Génère un **classement** des scores des équipes 📊
 
-### 🤖 Runners (machines de calcul)
+### 🤖 Runners
 
 - Exécutent les vérifications des soumissions 💻
 - Utilisent des **threads** pour un traitement parallèle ⚡
 - Renvoient les résultats au **serveur de jobs** ✅
 
-### 🏃 Client (programme de soumission)
+### 🏃 Client
 
 - Envoie un **programme** à vérifier au serveur 🎯
 - Attend et affiche le résultat de la vérification ⏳
